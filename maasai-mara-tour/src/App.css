@@ -1,0 +1,78 @@
+.App {
+    font-family: Arial, sans-serif;
+    background-color: #f0f8ff;
+  }
+  
+  .header {
+    background-color: #007BFF;
+    color: white;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  .header nav ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .header nav ul li {
+    display: inline;
+    margin: 0 15px;
+  }
+  
+  .header nav ul li a {
+    color: white;
+    text-decoration: none;
+  }
+  
+  .hero-section {
+    background: url('maasai-mara.jpg') no-repeat center center;
+    background-size: cover;
+    color: white;
+    text-align: center;
+    padding: 100px 20px;
+  }
+  
+  .hero-section button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .hero-section button:hover {
+    background-color: #0056b3;
+  }
+  
+  .itinerary-section {
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .booking-section {
+    background-color: #ffcc00;
+    color: white;
+    padding: 50px 20px;
+    text-align: center;
+  }
+  
+  .booking-section button {
+    background-color: #007BFF;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    cursor: pointer;
+  }
+  
+  .booking-section button:hover {
+    background-color: #0056b3;
+  }
+  
+  .footer {
+    background-color: #007BFF;
+    color: white;
+    text-align: center;
+    padding: 20px;
+  }
+  
